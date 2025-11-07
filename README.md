@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bedirhansb
 - 🌱 I’m currently learning Html,Css,JavaScript,Python, C
-- 📫 How to reach me instagram.com/bedirhansb
+- 📫 How to reach me instagram.com/bedirhan.sb
 
 <!---
 bedirhansb/bedirhansb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
